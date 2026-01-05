@@ -1,2 +1,25 @@
-A Python command-line application that asks users a series of questions, validates input, 
-calculates a score using loops, and classifies the user into a skill level based on their responses.
+# Interactive Skill Assessment (Python)
+
+## Overview
+This project is a Python command-line application that evaluates a user's skill level based on their responses to a series of questions.
+
+The program demonstrates:
+- Input validation using while loops
+- Iteration using for loops
+- List usage
+- Score-based decision logic
+
+## How It Works
+1. The user answers three questions using numbers between 1 and 4.
+2. Each input is validated.
+3. The responses are stored in a list.
+4. A total score is calculated using a for loop.
+5. The user is classified as Beginner, Intermediate, or Advanced.
+
+## Technologies
+- Python 3
+
+## How to Run
+```bash
+python skill_assessment.py
+

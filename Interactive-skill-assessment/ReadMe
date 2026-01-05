@@ -1,1 +1,2 @@
-
+A Python command-line application that asks users a series of questions, validates input, 
+calculates a score using loops, and classifies the user into a skill level based on their responses.

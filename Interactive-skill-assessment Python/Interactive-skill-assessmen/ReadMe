@@ -1,0 +1,24 @@
+# Python Skill Assessment Program
+
+## 📌 Description
+This is a beginner-friendly Python console application that collects user input, validates responses, calculates a score, and classifies the user into a skill level.
+
+The program focuses on practicing core Python fundamentals such as loops, functions, input validation, and conditional logic.
+
+---
+
+## 🚀 Features
+- Accepts 3 user responses (values between 1–4)
+- Validates input using `while` loops and `try/except`
+- Uses functions to avoid code repetition
+- Calculates a total score using `sum()`
+- Classifies users as **Beginner**, **Intermediate**, or **Advanced**
+
+---
+
+## ▶️ How to Run
+1. Clone the repository
+2. Open the project in VS Code
+3. Run the file using:
+   ```bash
+   python main.py

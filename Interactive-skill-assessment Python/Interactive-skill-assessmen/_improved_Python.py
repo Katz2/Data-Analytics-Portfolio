@@ -1,3 +1,6 @@
+
+
+
 answer = 0
 question2 = 0
 question3 = 0 
@@ -22,9 +25,7 @@ for q in questions:
 
 
 
-score = 0
-for value in answers:
-    score += value
+score = sum(answers)# this is very clean 
 
 print("Total score:", score)
 

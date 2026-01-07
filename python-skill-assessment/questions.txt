@@ -1,0 +1,5 @@
+Rate your technical skill (1–4):
+Any degree? (1–4):
+How do you approach responsibility? (1–4):
+How comfortable are you learning new things? (1–4):
+How well do you manage time? (1–4):

@@ -10,11 +10,14 @@ def get_valid_input(question): #this helps me get input from member and hold it 
     return value
 
 
-def load_questions(filename):# reference file questions 
+
+def load_questions(filename):
     questions = []
     with open(filename, "r") as file:
         for line in file:
-            questions.append(line.strip())#Strip is important given that python is space sensetive it removes any space after a line 
+            clean_line = line.strip()#Strip is important given that python is space sensetive it removes any space after a line
+            if clean_line:          # only add if NOT empty
+                questions.append(clean_line)
     return questions
 
 

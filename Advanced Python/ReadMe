@@ -1,0 +1,6 @@
+This project is a Python-based data analytics exercise that reads skill assessment data from a CSV file and calculates summary statistics for each individual.
+The goal is to demonstrate practical Python skills commonly used in data analytics, including:
+File handling
+Working with CSV data
+Dictionaries and loops
+Basic aggregations (totals and averages)
